@@ -1,1 +1,0 @@
-webpackJsonp([34],{"+KS+":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("RFtt"),a=n.n(r),o=n("rhLk"),u=n.n(o);a.a.createElement(u.a,{to:"/login"})},rhLk:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var r=n("n17S"),a=r.Redirect;t.default=a}});

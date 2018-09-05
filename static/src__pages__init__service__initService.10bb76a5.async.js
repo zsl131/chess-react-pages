@@ -1,1 +1,0 @@
-webpackJsonp([42],{x2Ag:function(e,n,t){"use strict";function i(){return Object(u.a)("appConfigService.loadOne",c()({}),!0)}function r(e){return Object(u.a)("appConfigService.initSystem",c()(e),!0)}Object.defineProperty(n,"__esModule",{value:!0}),t.d(n,"remoteLoad",function(){return i}),t.d(n,"initSystem",function(){return r});var o=t("JIQ1"),c=t.n(o),u=t("vLgD")}});

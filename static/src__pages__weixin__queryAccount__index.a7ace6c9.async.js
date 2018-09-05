@@ -1,1 +1,0 @@
-webpackJsonp([38],{"1Is4":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var c=n("RFtt"),o=n.n(c),u=n("O5/O"),r=(n.n(u),function(t){var e=t.queryAccount,n=localStorage.getItem("wxLoginAccount");return console.log("ttt",n),o.a.createElement("div",null,e.datas)});e.default=Object(u.connect)(function(t){return{queryAccount:t.queryAccount}})(r)}});

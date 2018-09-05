@@ -1,1 +1,0 @@
-webpackJsonp([7],{"04qB":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n("RFtt"),a=n.n(u),r=a.a.createElement("div",null,"Index Page");t.default=function(){return r}}});

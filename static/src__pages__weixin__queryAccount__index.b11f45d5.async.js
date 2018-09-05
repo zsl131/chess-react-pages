@@ -1,1 +1,0 @@
-webpackJsonp([55],{"1Is4":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=n("RFtt"),u=n.n(c),r=n("O5/O"),o=(n.n(r),function(e){var t=e.queryAccount;return u.a.createElement("div",null,t.datas)});t.default=Object(r.connect)(function(e){return{queryAccount:e.queryAccount}})(o)}});
