@@ -10,7 +10,7 @@
       const url = window.location.href;
       const domain = window.location.protocol+"//"+window.location.host; //域名
       const imgUrl = shareObj.imgUrl?(domain+shareObj.imgUrl):"";
-      // alert(shareObj.title);
+      alert(shareObj.title+"--"+shareObj.desc);
       // Toast.info("wxReady");   ///
       //分享给朋友
       window.wx.updateAppMessageShareData({
