@@ -7,7 +7,6 @@
     })
 
     window.wx.ready(function() {
-      if(!shareObj.desc) {shareObj.desc = "科学来源于生活，科学改变生活";}
       const url = window.location.href;
       const domain = window.location.protocol+"//"+window.location.host; //域名
       let imgUrl = shareObj.imgUrl?(domain+shareObj.imgUrl):"";
