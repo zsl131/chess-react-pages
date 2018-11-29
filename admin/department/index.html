@@ -9,9 +9,8 @@
     window.wx.ready(function() {
       const url = window.location.href;
       const domain = window.location.protocol+"//"+window.location.host; //域名
-      let imgUrl = shareObj.imgUrl?(domain+shareObj.imgUrl):"";
+      let imgUrl = shareObj.imgUrl?(domain+shareObj.imgUrl):domain+"/publicFile/logo.png";
       if(!shareObj.desc) {shareObj.desc = "科学来源于生活，科学改变生活";}
-      if(!imgUrl) {imgUrl = domain+"/publicFile/logo.png";}
       // alert(shareObj.title+"--"+shareObj.desc);
       // Toast.info("wxReady");   ///
       //分享给朋友
